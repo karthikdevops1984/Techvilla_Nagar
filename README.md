@@ -1,2 +1,2 @@
 # Techvilla_Nagar
-This is a area where many software engineers are living
+This is the area where many software engineers live.
